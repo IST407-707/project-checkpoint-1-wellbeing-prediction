@@ -8,7 +8,7 @@ Lakshmi Peram
 
 
 ## Introduction
-In 2019, the World Health Organization (WHO) included Burn-out in the 11 th  revision of the International Classification of Diseases (ICD-11). Burn-out is defined in ICD-11 as, “a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed.” They characterize burnout as feelings of energy depletion or exhaustion; increased mental distance from one’s job, or feelings of negativism or cynicism related to one's job; and reduced professional efficacy.
+In 2019, the World Health Organization (WHO) included Burn-out in the 11th  revision of the International Classification of Diseases (ICD-11). Burn-out is defined in ICD-11 as, “a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed.” They characterize burnout as feelings of energy depletion or exhaustion; increased mental distance from one’s job, or feelings of negativism or cynicism related to one's job; and reduced professional efficacy.
 
  The WHO did not classify it as a medical condition but rather characterized it as an occupational phenomenon. Shortly after this addition, the COVID-19 pandemic struck, exacerbating the pre-existing mental health crisis and brought the experiences of burnout among frontline workers to the forefront. In the years since, discourse surrounding burnout has expanded from affecting frontline workers to affecting people across the board both in relation to the workplace and life in general. 
 
