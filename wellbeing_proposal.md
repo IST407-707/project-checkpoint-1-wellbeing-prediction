@@ -62,7 +62,7 @@ P3. Identify current geographic areas and demographics at risk of burnout. Gener
 
 ## Risks 
 
-# Spatial Analysis Risks
+**Spatial Analysis Risks**
 
 Spatial analysis techniques such as kernel density estimation and spatial clustering require careful parameter selection and interpretation, risking misinterpreting results or overlooking important spatial patterns, especially without appropriate expertise.
 
