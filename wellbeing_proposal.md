@@ -1,5 +1,7 @@
 # Wellbeing Predictions: The search for signs of Burnout
 
+#### Team: Chante Williams (cpwill02)
+
 ## Introduction
 
 “Health is more than the absence of disease,” according to the Centers for Disease Control and Prevention. To date extensive study has been done on measures of physical health at the individual and societal level. With metrics that assess health factors focusing on diet and exercise, alcohol and drug use, access to care and the impact of the physical environment. However, metrics to assess quality of life on the basis of mental and emotional health, happiness, purpose, or love are few and not approached with the same level of empirical rigor. 
