@@ -4,11 +4,11 @@
 
 ## Introduction
 
-“Health is more than the absence of disease,” according to the Centers for Disease Control and Prevention. To date extensive study has been done on measures of physical health at the individual and societal level. With metrics that assess health factors focusing on diet and exercise, alcohol and drug use, access to care and the impact of the physical environment. However, metrics to assess quality of life on the basis of mental and emotional health, happiness, purpose, or love are few and not approached with the same level of empirical rigor. 
+“Health is more than the absence of disease,” according to the Centers for Disease Control and Prevention. To date, extensive study has been done on measures of physical health at the individual and societal level. With metrics that assess health factors focusing on diet and exercise, alcohol and drug use, access to care and the impact of the physical environment. However, metrics to assess quality of life on the basis of mental and emotional health, happiness, purpose, or love are few and not approached with the same level of empirical rigor. 
 
 In recent years, Burn-out has emerged as a significant public health concern affecting individuals across various professions, demographics, and geographies. In 2019, the World Health Organization (WHO) included Burn-out in the 11th revision of the International Classification of Diseases (ICD-11). Burn-out is defined in ICD-11 as, “a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed.” They characterize burnout as feelings of energy depletion or exhaustion; increased mental distance from one’s job, or feelings of negativism or cynicism related to one's job; and reduced professional efficacy.
 
-Based on this definition, if left unaddressed, burnout poses a threat to the economy. As the pipeline from disillusioned and disengaged employees to attrition fuels a growing labor shortage, reduces productivity, and inflates health care costs. 
+Based on this definition, if left unaddressed, burnout poses a threat to the economy. As the pipeline from disillusioned and disengaged employees to attrition fuels the growing labor shortage, reduces productivity, and inflates health care costs. 
 
 With 'Burn-out' being a relatively 'new' phenomenon recognized by Public Health institutions, there are not many metrics available to identify this phenomenon, track it, provide stopgaps and supporting resources to aid populations who may be in crisis. Currently methods that aim to measure burnout focus exclusively on exhaustion, use only one- or two-item indicators, or rely heavily on employee surveys. 
 
@@ -40,7 +40,7 @@ P1. Construct composite indices of burnout risk by standardizing and weighting i
 
 P2. Apply spatial analysis techniques such as kernel density estimation and spatial clustering to identify geographic hotspots. Use appropriate bandwidth selection and clustering algorithms to detect spatial clusters of elevated risk. 
 
-P2. Access API and integrate census demographic data at the census tract level (1,400 to 8000 people per subdivision)  with spatial analysis results to assess disparities in risk among different populations. Perform spatial join operations to link demographic information to spatial units.
+P2. Access API and integrate census demographic data at the census tract level (1,400 to 8000 people per subdivision)  with spatial analysis results to assess disparities in risk within the population. Perform spatial join operations to link demographic information to spatial units.
 
 P2. Conduct exploratory data analysis to identify temporal patterns and relationships between variables. Visualize time series plots and heatmaps to identify trends, seasonality, and potential outliers.
 
@@ -50,7 +50,7 @@ P3. Select appropriate exploration and forecasting models based on the character
 
 >>Geographically Weighted Regression (GWR): Implement GWR using PySal to estimate spatially varying regression coefficients for predictors of burnout. Assess the spatial autocorrelation of model residuals and visualize spatial patterns of predictor effects to understand local variations in burnout risk.
 
-P3. Evaluate model performance and fine-tune parameters using techniques such as grid search or cross-validation. Optimize model hyperparameters to improve forecasting accuracy and robustness.
+P3. Evaluate model performance and fine-tune parameters using techniques such as grid search or cross-validation. Optimize model hyperparameters to improve forecasting accuracy.
 
 P3. Identify current geographic areas and demographics at risk of burnout. Generate 2- or 5-year forecast, visualize values and confidence intervals to communicate uncertainty and provide actionable insights.
 
@@ -74,7 +74,7 @@ MAUP (Modifiable Areal Unit Problem) Issues:
 
 The Modifiable Areal Unit Problem (MAUP) may affect the spatial analysis results, as aggregation or disaggregation of data into different geographic units can lead to different conclusions or biases. Health and Socioeconomic data are available at the county level while census data is available at both the county and tract level. The intent is to use census data at the tract level, but this will need to be discussed with stakeholders. 
 
-Mitigation: Conduct sensitivity analysis to assess the impact of different geographic units on the analysis results. Use appropriate techniques (spatial interpolation or aggregation methods) to minimize the effects of MAUP. Flesh out the rationale behind the choice of geographic units and potential implications on the analysis outcomes. Engage with stakeholders to ensure transparency and understanding of the spatial analysis methods used.
+Mitigation: Conduct sensitivity analysis to assess the impact of different geographic units on the analysis results. Use appropriate techniques (spatial interpolation or aggregation methods) to minimize the effects of MAUP. Flesh out the rationale behind the choice of geographic units and potential implications on the analysis outcome. Closely consult with stakeholders on spatial analysis methods used.
 
 ## Citations
 
