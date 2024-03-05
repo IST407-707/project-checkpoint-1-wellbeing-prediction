@@ -10,9 +10,11 @@ Based on this definition, if left unaddressed, burnout poses a threat to the eco
 
 With 'Burn-out' being a relatively 'new' phenomenon recognized by Public Health institutions, there are not many metrics available to identify this phenomenon, track it, provide stopgaps and supporting resources to aid populations who may be in crisis. Currently methods that aim to measure burnout focus exclusively on exhaustion, use only one- or two-item indicators, or rely heavily on employee surveys. 
 
-Understanding the complex interplay of factors contributing to burnout is crucial for developing effective interventions and support systems to mitigate its prevalence. This project seeks to leverage a data-driven to explore the underlying determinants of burnout by integrating health indicators and socioeconomic measures into spatial analysis frameworks, to gain insights into the geographic distribution of burnout and its associated risk factors. Through rigorous statistical analysis and predictive modeling techniques, we aim to provide actionable insights to employers, policymakers, healthcare providers, and other stakeholders for resource allocation and targeted interventions.
+Understanding the complex interplay of factors contributing to burnout is crucial for developing effective interventions and support systems to mitigate its prevalence. This project seeks to leverage a data-driven approach to explore the underlying determinants of burnout by integrating health indicators and socioeconomic measures into spatial analysis frameworks, to gain insights into the geographic distribution of burnout and its associated risk factors. Through rigorous statistical analysis and predictive modeling techniques, we aim to provide actionable insights to employers, policymakers, healthcare providers, and other stakeholders for resource allocation and targeted interventions.
 
 ## Literature Review
+
+
 
 #### Data and Methods
 
