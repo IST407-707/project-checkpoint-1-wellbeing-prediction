@@ -1,4 +1,4 @@
-# Title: Wellbeing Predictions: The search for signs of Burnout
+# Wellbeing Predictions: The search for signs of Burnout
 
 ## Introduction
 
