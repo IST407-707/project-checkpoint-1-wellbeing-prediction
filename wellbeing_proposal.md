@@ -14,9 +14,9 @@ Understanding the complex interplay of factors contributing to burnout is crucia
 
 ## Literature Review
 
-##Data and Methods
+#### Data and Methods
 
-#Data 
+**Data**
 
 Data from the County Health Rankings from 2018 to 2023 will be used to evaluate the spatial distribution and temporal change for variables such as the average number days of poor physical health and poor mental health reported as well as their correlation to: Unemployment rate, Food Insecurity, Excessive Drinking, Insufficient Sleep, Income Inequality Ratio, Frequent Mental Distress, Frequent Physical Distress, Disconnected Youth, Child Poverty rate, Suicide rate, Firearm Fatality rate, Median Household Income by race and Life Expectancy by race. 
 
@@ -24,7 +24,7 @@ The County Health Rankings datasets are a collaboration between the Robert Wood 
 
 [add data dimension info, select demo data from census and add]
 
-##Methods
+**Methods**
 
 Using the WHO definition of Burnout as a guide, this project aims to: 
 
@@ -42,9 +42,9 @@ P2. Conduct exploratory data analysis to identify temporal patterns and relation
 
 P3. Select appropriate exploration and forecasting models based on the characteristics of the data. Options include: 
 
-Neural Network Model: Implement a neural network model using libraries like TensorFlow or PyTorch to capture complex patterns in burnout data. Experiment with different architectures and hyperparameters to optimize model performance and interpretability.
+  Neural Network Model: Implement a neural network model using libraries like TensorFlow or PyTorch to capture complex patterns in burnout data. Experiment with different architectures and hyperparameters to optimize model performance and interpretability.
 
-Geographically Weighted Regression (GWR): Implement GWR using PySal to estimate spatially varying regression coefficients for predictors of burnout. Assess the spatial autocorrelation of model residuals and visualize spatial patterns of predictor effects to understand local variations in burnout risk.
+  Geographically Weighted Regression (GWR): Implement GWR using PySal to estimate spatially varying regression coefficients for predictors of burnout. Assess the spatial autocorrelation of model residuals and visualize spatial patterns of predictor effects to understand local variations in burnout risk.
 
 P3. Evaluate model performance and fine-tune parameters using techniques such as grid search or cross-validation. Optimize model hyperparameters to improve forecasting accuracy and robustness.
 
@@ -60,9 +60,9 @@ P3. Identify current geographic areas and demographics at risk of burnout. Gener
 | 4/15 - 4/20    | Testing and Optimization                                      | Valuable insights attained and report complete          |
 
 
-##Risks 
+## Risks 
 
-#Spatial Analysis Risks
+# Spatial Analysis Risks
 
 Spatial analysis techniques such as kernel density estimation and spatial clustering require careful parameter selection and interpretation, risking misinterpreting results or overlooking important spatial patterns, especially without appropriate expertise.
 
@@ -72,5 +72,5 @@ The Modifiable Areal Unit Problem (MAUP) may affect the spatial analysis results
 
 Mitigation: Conduct sensitivity analysis to assess the impact of different geographic units on the analysis results. Use appropriate techniques (spatial interpolation or aggregation methods) to minimize the effects of MAUP. Flesh out the rationale behind the choice of geographic units and potential implications on the analysis outcomes. Engage with stakeholders to ensure transparency and understanding of the spatial analysis methods used.
 
-##Citations
+## Citations
 
