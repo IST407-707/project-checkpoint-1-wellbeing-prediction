@@ -46,9 +46,9 @@ P2. Conduct exploratory data analysis to identify temporal patterns and relation
 
 P3. Select appropriate exploration and forecasting models based on the characteristics of the data. Options include: 
 
-  Neural Network Model: Implement a neural network model using libraries like TensorFlow or PyTorch to capture complex patterns in burnout data. Experiment with different architectures and hyperparameters to optimize model performance and interpretability.
+>>Neural Network Model: Implement a neural network model using libraries like TensorFlow or PyTorch to capture complex patterns in burnout data. Experiment with different architectures and hyperparameters to optimize model performance and interpretability.
 
-  Geographically Weighted Regression (GWR): Implement GWR using PySal to estimate spatially varying regression coefficients for predictors of burnout. Assess the spatial autocorrelation of model residuals and visualize spatial patterns of predictor effects to understand local variations in burnout risk.
+>>Geographically Weighted Regression (GWR): Implement GWR using PySal to estimate spatially varying regression coefficients for predictors of burnout. Assess the spatial autocorrelation of model residuals and visualize spatial patterns of predictor effects to understand local variations in burnout risk.
 
 P3. Evaluate model performance and fine-tune parameters using techniques such as grid search or cross-validation. Optimize model hyperparameters to improve forecasting accuracy and robustness.
 
